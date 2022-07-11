@@ -1,2 +1,2 @@
 # sandorwebshop
-Demo pagr
+Demo page
